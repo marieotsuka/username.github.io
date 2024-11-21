@@ -1,0 +1,15 @@
+@font-face{
+	font-family: 'Amira';
+	src: url('Amira-Regular.woff2') format('woff2');
+	font-weight: 400;
+}
+
+
+body{
+	/* this is the outermost element on your page*/
+	background: yellow;
+	font-family: 'Amira';
+	font-size: 100px;
+}
+
+
