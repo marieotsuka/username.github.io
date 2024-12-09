@@ -1,0 +1,24 @@
+@font-face{
+	font-family: 'Amira';
+	src: url('Amira-Regular.woff2') format('woff2');
+	font-weight: 400;
+}
+
+
+body{
+	font-family: 'Amira';
+	background: white;
+	color: black;
+	font-size: 30px;
+}
+
+a{
+	color: red;
+}
+
+.special{
+	color: green;
+}
+.anotherclass{
+	color: purple;
+}
